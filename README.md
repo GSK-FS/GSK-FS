@@ -79,6 +79,7 @@ Git-CICD
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<!--
 [![AI bots were given freedom in a virtual city…](https://ytcards.demolab.com/?id=FBvyxc0PSlc&title=AI+bots+were+given+freedom+in+a+virtual+city%E2%80%A6&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=291 "AI bots were given freedom in a virtual city…")](https://www.youtube.com/watch?v=FBvyxc0PSlc)
 [![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=53 "Elon Musk is building TruthGPT…")](https://www.youtube.com/watch?v=TOIRY9UjAMI)
 [![Nvidia's AI Supercomputers Power Everything...](https://ytcards.demolab.com/?id=dgmQ-IAANAc&title=Nvidia%27s+AI+Supercomputers+Power+Everything...&lang=en&timestamp=1681909225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=482 "Nvidia's AI Supercomputers Power Everything...")](https://www.youtube.com/watch?v=dgmQ-IAANAc)
@@ -87,7 +88,7 @@ Git-CICD
 [![How Microsoft Took Control of OpenAI](https://ytcards.demolab.com/?id=o07kRSvz7yM&title=How+Microsoft+Took+Control+of+OpenAI&lang=en&timestamp=1680613236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1176 "How Microsoft Took Control of OpenAI")](https://www.youtube.com/watch?v=o07kRSvz7yM)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@GSK-Tech?sub_confirmation=1)
 
 #
 
